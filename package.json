@@ -12,7 +12,6 @@
     "homepage": "https://docs.hiveauth.com",
     "dependencies": {
         "assert": "^2.0.0",
-        "crypto-js": "^4.1.1",
         "uuid": "^8.3.2"
     }
 }
